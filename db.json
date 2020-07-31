@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+        {
+      "id": 1,
+      "title": "hello"
+    },
+        {
+      "id": 1,
+      "title": "hello"
+    },
+        {
+      "id": 1,
+      "title": "hello"
+    },
+        {
+      "id": 1,
+      "title": "hello"
+    },
+        {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
